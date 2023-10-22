@@ -1,0 +1,27 @@
+{
+  "name": "deku-cra-snippet-cli",
+  "version": "0.0.1",
+  "description": "A command line interface for cra-template-deku snippet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-yakuza/deku-cra-snippet-cli.git"
+  },
+  "keywords": [
+    "react",
+    "create-react-app",
+    "cra",
+    "snippet",
+    "command-line-interface",
+    "cli"
+  ],
+  "author": "DeKu <dev.yakuza@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dev-yakuza/deku-cra-snippet-cli/issues"
+  },
+  "homepage": "https://github.com/dev-yakuza/deku-cra-snippet-cli"
+}
